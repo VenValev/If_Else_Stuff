@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_InfoSpeed", "6_InfoSpeed\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_AreaFigures", "7_AreaFigures\7_AreaFigures.csproj", "{24A32069-3AD0-4C55-8D9C-7BD0267F7901}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_SumSeconds", "2_SumSeconds\2_SumSeconds.csproj", "{463E977B-1958-424D-A06D-A205230F8576}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{24A32069-3AD0-4C55-8D9C-7BD0267F7901}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24A32069-3AD0-4C55-8D9C-7BD0267F7901}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24A32069-3AD0-4C55-8D9C-7BD0267F7901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463E977B-1958-424D-A06D-A205230F8576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463E977B-1958-424D-A06D-A205230F8576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463E977B-1958-424D-A06D-A205230F8576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463E977B-1958-424D-A06D-A205230F8576}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
